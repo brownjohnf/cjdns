@@ -33,7 +33,7 @@
     [
       "crypto_sign",
       "ed25519",
-      "ref10"
+      "ref"
     ],
     [
       "crypto_auth",
